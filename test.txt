@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi
-on master
+=======
+branch says hi
+>>>>>>> mybranch
